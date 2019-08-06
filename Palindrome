@@ -1,0 +1,6 @@
+a=str(input("Enter the input String"))
+reverse=a[::-1]
+if(a==reverse):
+    print("The Given String is Palindrome")
+else:
+    print("The Given String is Not Palindrome")
