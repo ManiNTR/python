@@ -1,0 +1,4 @@
+x=input("Enter the Numbers")
+tuple1=tuple(x.split(","))
+print(tuple1)
+print(tuple1[2])
