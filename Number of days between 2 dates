@@ -1,5 +1,5 @@
 from datetime import date
 First_date=date(1999,10,5)
-last_date=date(1999,6,8)
+last_date=date(1999,11,8)
 date=last_date - First_date
 print(date.days,"days")
