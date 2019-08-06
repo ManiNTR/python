@@ -1,0 +1,6 @@
+n=list(input("Enter the values").split(" "))
+n1=tuple(n)
+print("List= ", n)
+print("Tuple= ",n1)
+print(''.join(n1))
+
