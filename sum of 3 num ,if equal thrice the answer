@@ -1,0 +1,9 @@
+a=int(input("Enter the 1st Number"))
+b=int(input("Enter the 2st Number"))
+c=int(input("Enter the 3st Number"))
+d=a+b+c
+if(a==b==c):
+    sum=d*3
+    print("The Answer is",sum)
+else:
+    print("The Answer is",d)
